@@ -2,7 +2,12 @@
 <table align="center">
   <tr>
     <td width="1440">
-    <h3 align = "center">Interactive Dashboard: <a href="[REPLACE WITH POWER BI PUBLISH LINK]">View on Power BI Service</a></h3>
+    <h3 align="center">
+  Interactive Dashboard:
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiM2E3NTE2YzItOTc5Ni00Mjc2LWJkZjYtYTY5ZDc4MjcxMGFjIiwidCI6IjMxYmYwMzA0LTZkZTgtNDdhZi04ZjZhLTYyMzYwZmE0ZDgwYiJ9">
+    View on Power BI Service
+  </a>
+</h3>
       <h2 align="center">Project Background</h2>
       <body>
         The <strong>Home Mortgage Disclosure Act (HMDA)</strong> requires financial institutions to report loan-level data to federal regulators, enabling public scrutiny of lending patterns across demographic groups. This data is a cornerstone of fair lending enforcement under the <strong>Equal Credit Opportunity Act (ECOA)</strong> and is actively monitored by the CFPB, DOJ, and FFIEC.<br />
@@ -28,7 +33,6 @@
       <h1 align="center">Executive Summary</h1>
       <h3 align="center">California Home Lending — 2023 Snapshot</h3>
       <div align="center">
-        <img width="1000" alt="Page 1 - Home Lending Originations Dashboard" src="[REPLACE WITH GITHUB IMAGE LINK - Page 1 Screenshot]" />
       </div>
       <td width="460" valign="top">
         <ol>
@@ -116,7 +120,7 @@ The dataset is sourced from the <strong>CFPB HMDA Data Browser</strong> (ffiec.c
   <tr>
     <h1 align="center">Page 1: Originations Performance</h1>
     <div align="center">
-      <img width="1000" alt="Page 1 - Originations Dashboard" src="[REPLACE WITH GITHUB IMAGE LINK - Page 1 Screenshot]" />
+      <img width="1000" alt="Page 1 - Originations Dashboard" src="https://github.com/user-attachments/assets/7149067f-73a6-462e-8e58-b01d10b305ab" />
     </div>
   </tr>
 </table>
@@ -164,7 +168,7 @@ The dataset is sourced from the <strong>CFPB HMDA Data Browser</strong> (ffiec.c
   <tr>
     <h1 align="center">Page 2: Fair Lending Analysis</h1>
     <div align="center">
-      <img width="1000" alt="Page 2 - Fair Lending Dashboard" src="[REPLACE WITH GITHUB IMAGE LINK - Page 2 Screenshot]" />
+      <img width="1000" alt="Page 2 - Fair Lending Dashboard" src="https://github.com/user-attachments/assets/1c9ca7c8-767d-4d0b-8221-ebce17564857" />
     </div>
   </tr>
 </table>
