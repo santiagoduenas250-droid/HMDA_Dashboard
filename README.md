@@ -2,12 +2,15 @@
 <table align="center">
   <tr>
     <td width="1440">
-    <h3 align="center">
-  Interactive Dashboard:
-  <a href="https://app.powerbi.com/view?r=eyJrIjoiM2E3NTE2YzItOTc5Ni00Mjc2LWJkZjYtYTY5ZDc4MjcxMGFjIiwidCI6IjMxYmYwMzA0LTZkZTgtNDdhZi04ZjZhLTYyMzYwZmE0ZDgwYiJ9">
-    View on Power BI Service
-  </a>
-</h3>
+    <h3 align="center">&#128202; Live Interactive Dashboard</h3>
+    <div align="center">
+      <a href="https://app.powerbi.com/view?r=eyJrIjoiM2E3NTE2YzItOTc5Ni00Mjc2LWJkZjYtYTY5ZDc4MjcxMGFjIiwidCI6IjMxYmYwMzA0LTZkZTgtNDdhZi04ZjZhLTYyMzYwZmE0ZDgwYiJ9">
+        <img src="[REPLACE WITH GITHUB IMAGE LINK - Page 1 Screenshot]" alt="Home Lending Dashboard Preview" width="900" />
+      </a>
+      <br />
+      <sub><em>&#128073; Click image to open the live interactive dashboard on Power BI Service</em></sub>
+    </div>
+    <br />
       <h2 align="center">Project Background</h2>
       <body>
         The <strong>Home Mortgage Disclosure Act (HMDA)</strong> requires financial institutions to report loan-level data to federal regulators, enabling public scrutiny of lending patterns across demographic groups. This data is a cornerstone of fair lending enforcement under the <strong>Equal Credit Opportunity Act (ECOA)</strong> and is actively monitored by the CFPB, DOJ, and FFIEC.<br />
