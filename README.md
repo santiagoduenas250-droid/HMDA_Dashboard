@@ -5,10 +5,10 @@
     <h3 align="center">&#128202; Live Interactive Dashboard</h3>
     <div align="center">
       <a href="https://app.powerbi.com/view?r=eyJrIjoiM2E3NTE2YzItOTc5Ni00Mjc2LWJkZjYtYTY5ZDc4MjcxMGFjIiwidCI6IjMxYmYwMzA0LTZkZTgtNDdhZi04ZjZhLTYyMzYwZmE0ZDgwYiJ9">
-        <img src="[REPLACE WITH GITHUB IMAGE LINK - Page 1 Screenshot]" alt="Home Lending Dashboard Preview" width="900" />
+        <img src="https://github.com/user-attachments/assets/7b66f4bd-4e77-48f0-ae95-2e2b0940aba7" alt="Home Lending Dashboard Preview" width="500" />
       </a>
       <br />
-      <sub><em>&#128073; Click image to open the live interactive dashboard on Power BI Service</em></sub>
+      <sub> Click image to open the live interactive dashboard on Power BI Service</em></sub>
     </div>
     <br />
       <h2 align="center">Project Background</h2>
